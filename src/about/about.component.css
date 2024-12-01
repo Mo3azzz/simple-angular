@@ -1,0 +1,21 @@
+.bg{
+    background-color: #1abc9c !important;
+}
+
+.line
+{
+    height: 4px;
+    background-color: white !important;
+    width: 80px;
+}
+.w-85
+{
+    width: 85%;
+}
+.pt-50
+{padding-block:100px ;}
+.big 
+{
+    font-size: 40px;
+    text-transform: uppercase;
+}

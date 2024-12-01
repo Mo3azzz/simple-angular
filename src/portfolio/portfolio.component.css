@@ -1,0 +1,48 @@
+.line
+{
+    height: 4px;
+    background-color: rgb(44, 62, 80)    !important;
+    width: 80px;
+}
+.color
+{
+    color: rgb(44, 62, 80)    ;
+}
+.w-85
+{
+    width: 85%;
+}
+.w-fit 
+{
+    width: fit-content;
+}
+.layer
+{    
+    content: "";
+    position: absolute;
+    background-color: #1abc9c;
+    opacity: 0;
+    transition: 0.5s;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;   
+    /* z-index: 999; */
+    &:hover{
+        opacity: 0.9;
+    }
+    
+}
+.big {
+    font-size: 80px;
+}
+.upper
+{
+    text-transform: uppercase;
+}
+body,html
+{
+    padding-top: 100px !important;
+}
+.pt-50
+{padding-top:100px ;}

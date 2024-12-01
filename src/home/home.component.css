@@ -1,0 +1,17 @@
+.bg{
+    background-color: #1abc9c !important;
+}
+
+.line
+{
+    height: 4px;
+    background-color: white !important;
+    width: 80px;
+}
+.pt-50
+{padding-top:100px ;}
+.big 
+{
+    font-size: 40px;
+    text-transform: uppercase;
+}

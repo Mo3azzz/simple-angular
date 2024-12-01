@@ -1,0 +1,33 @@
+.line
+{
+    height: 4px;
+    background-color: rgb(44, 62, 80)!important;
+    width: 80px;
+}
+.color
+{
+    color:rgb(44, 62, 80);
+}
+.w-85
+{
+    width: 85%;
+}
+.bg-but
+{
+    background-color: #1abc9c;
+}
+input
+{
+    &:focus
+    {
+        border-color: transparent !important;
+        box-shadow: none;
+    }
+}
+.pt-50
+{padding-top:100px ;}
+.big 
+{
+    font-size: 40px;
+    text-transform: uppercase;
+}
